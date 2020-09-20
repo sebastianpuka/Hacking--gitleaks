@@ -120,3 +120,14 @@ BTC: 397zNMQnSUzGaqYw8XVa9YjNPiRpSZWkhX
 
 ETH: 0x07eFa8c73235e18C9D7E7A1679751Aa9363CD99B
 
+
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
+
+

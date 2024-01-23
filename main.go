@@ -1,5 +1,5 @@
 package main
-
+kot
 import (
 	"fmt"
 	"os"
